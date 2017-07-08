@@ -1,5 +1,3 @@
-package stepbystep.java;
-
 import java.util.Scanner;
 
 public class C1_2{
